@@ -1,6 +1,4 @@
 # AI_Research
-
-put some stuff - all data for the project
 Project Overview
 This repository contains all research data, scripts, and documents for the REIT6811 course, managed by Zezheng Wu. The project aims to practice version control, collaborative work, and structured data handling using Git and GitHub.
 
